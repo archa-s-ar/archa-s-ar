@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Archa
 🎓 First year B.Tech CSE Student at RIT, Kottayam.  
 💻 Exploring Python, Web Development & Problem Solving.  
-Portfolio link: https://archa-s-ar.github.io/portfolio-ai/
+
 ---
 
 ## 🌌 About Me
@@ -13,7 +13,7 @@ Currently, I am focused on:
 - 🐍 Python programming  
 - 🌐 Web development  
 - 🧠 Problem solving  
-
+Portfolio link: https://archa-s-ar.github.io/portfolio-ai/
 <!--
 **archa-s-ar/archa-s-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
