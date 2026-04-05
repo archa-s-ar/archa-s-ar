@@ -1,12 +1,12 @@
 ## Hi there 👋, I am Archa
-🎓 First year B.Tech CSE Student at RIT, Kottayam.
-💻 Exploring Python, Web Development & Problem Solving.
+🎓 First year B.Tech CSE Student at RIT, Kottayam.  
+💻 Exploring Python, Web Development & Problem Solving.  
 
 ---
 
 ## 🌌 About Me
 
-I am a Computer Science student passionate about technology and space science.  
+I am a Computer Science student passionate about technology and space science.
 I enjoy building projects that solve real-world problems and continuously improving my skills through hands-on learning.
 
 Currently, I am focused on:
