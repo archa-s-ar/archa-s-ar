@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Archa
-🎓 First year B.Tech CSE Student at RIT, Kottayam
-💻 Exploring Python, Web Development & Problem Solving  
+🎓 First year B.Tech CSE Student at RIT, Kottayam.
+💻 Exploring Python, Web Development & Problem Solving.
 
 ---
 
