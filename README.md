@@ -13,7 +13,7 @@ Currently, I am focused on:
 - 🐍 Python programming  
 - 🌐 Web development  
 - 🧠 Problem solving  
-Portfolio link: https://archa-s-ar.github.io/portfolio-ai/
+Portfolio link: [Click here](https://archa-s-ar.github.io/portfolio-ai/)
 <!--
 **archa-s-ar/archa-s-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
