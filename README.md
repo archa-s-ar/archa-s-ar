@@ -12,6 +12,8 @@ I enjoy building projects that solve real-world problems and continuously improv
 Currently, I am focused on:
 - 🐍 Python programming  
 - 🌐 Web development  
+- 🌍 Open Source
+- 🛰️ Remote Sensing and GIS
 - 🧠 Problem solving
 
 Portfolio link: [Click here](https://archa-s-ar.github.io/portfolio-ai/)
