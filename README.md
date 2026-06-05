@@ -1,22 +1,42 @@
-# Hi there 👋, I am Archa
-• First year B.Tech CSE Student at RIT, Kottayam.  
-• Exploring Python, Web Development & Problem Solving.  
+<h1 align="center">Hi there 👋, I'm Archa</h1>
+<p align="center"><strong>
+🎓 First-Year B.Tech Computer Science & Engineering Student at Rajiv Gandhi Institute of Technology (RIT), Kottayam</strong>
+</p>
 
----
+I am a Computer Science student passionate about technology, space science, and geospatial applications. I enjoy building projects, contributing to open source, and exploring how software, AI, and satellite data can be used to solve real-world problems.
 
-## About Me
 
-I am a Computer Science student passionate about technology and space science.
-I enjoy building projects that solve real-world problems and continuously improving my skills through hands-on learning.
+## 🚀 Current Focus
 
-Currently, I am focused on:
-- 🐍 Python programming  
-- 🌐 Web development  
-- 🌍 Open Source
-- 🛰️ Remote Sensing and GIS
-- 🧠 Problem solving
+* 🐍 Python Programming
+* 🌐 Web Development
+* 🌍 Open Source Contributions
+* 🛰️ Remote Sensing & GIS
+* 🧩 Problem Solving
 
-Portfolio link: [Click here](https://archa-s-ar.github.io/portfolio-ai/)
+## 🌱 Currently Learning
+
+* Data Analysis with NumPy & Pandas
+* Machine Learning Fundamentals
+* Geospatial Analysis
+* Open Source Development
+
+## 🔭 Interests
+
+* Space Technology
+* Earth Observation & Satellite Data
+* Geospatial Intelligence
+* Software Development
+* Artificial Intelligence
+
+## 📫 Connect With Me
+
+<p align="center">
+🌐 <a href="https://archa-s-ar.github.io/portfolio-ai/">Portfolio</a> |
+💻 <a href="https://github.com/archa-s-ar">GitHub</a> |
+💼 <a href="https://www.linkedin.com/in/archa-s-ar/">LinkedIn</a>
+</p>
+
 <!--
 **archa-s-ar/archa-s-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
