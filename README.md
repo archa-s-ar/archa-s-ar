@@ -35,7 +35,7 @@ I am a Computer Science student passionate about technology, space science, and 
 🌐 <a href="https://archa-s-ar.github.io/portfolio-ai/">Portfolio</a> |
 💻 <a href="https://github.com/archa-s-ar">GitHub</a> |
 💼 <a href="https://www.linkedin.com/in/archa-s-ar/">LinkedIn</a> |
-📧 <a href="mailto:archahere2005@gmail.com">Email</a>
+📧 <a href="mailto:ar.archa.s@gmail.com">Email</a>
 </p>
 
 <!--
