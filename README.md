@@ -23,6 +23,7 @@ I am a Computer Science student passionate about technology, space science, and 
 
 ## 🔭 Interests
 
+* Web Development
 * Space Technology
 * Earth Observation & Satellite Data
 * Geospatial Intelligence
