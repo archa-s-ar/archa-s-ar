@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Archa</h1>
 <p align="center"><strong>
-🎓 First-Year B.Tech Computer Science & Engineering Student at Rajiv Gandhi Institute of Technology (RIT), Kottayam</strong>
+🎓 First-Year B.Tech Computer Science & Engineering Student at GEC Rajiv Gandhi Institute of Technology (RIT), Kottayam</strong>
 </p>
 
 I am a Computer Science student passionate about technology, space science, and geospatial applications. I enjoy building projects, contributing to open source, and exploring how software, AI, and satellite data can be used to solve real-world problems.
