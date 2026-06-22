@@ -1,55 +1,56 @@
-<h1 align="center">Hi there 👋, I'm Archa</h1>
-<p align="center"><strong>
-🎓 First-Year B.Tech Computer Science & Engineering Student at GEC Rajiv Gandhi Institute of Technology (RIT), Kottayam</strong>
-</p>
-
-I am a Computer Science student passionate about technology, space science, and geospatial applications. I enjoy building projects, contributing to open source, and exploring how software, AI, and satellite data can be used to solve real-world problems.
-
-
-## 🚀 Current Focus
-
-* 🐍 Python Programming
-* 🌐 Web Development
-* 🌍 Open Source Contributions
-* 🛰️ Remote Sensing & GIS
-* 🧩 Problem Solving
-
-## 🌱 Currently Learning
-
-* Data Analysis with NumPy & Pandas
-* Machine Learning Fundamentals
-* Geospatial Analysis
-* Open Source Development
-
-## 🔭 Interests
-
-* Web Development
-* Space Technology
-* Earth Observation & Satellite Data
-* Geospatial Intelligence
-* Software Development
-* Artificial Intelligence
-
-## 📫 Connect With Me
+<h1 align="center">🛰️ Archa</h1>
 
 <p align="center">
-🌐 <a href="https://archa-s-ar.github.io/portfolio-ai/">Portfolio</a> |
-💻 <a href="https://github.com/archa-s-ar">GitHub</a> |
-💼 <a href="https://www.linkedin.com/in/archa-s-ar/">LinkedIn</a> |
-📧 <a href="mailto:ar.archa.s@gmail.com">Email</a>
+Computer Science Student • GIS & Remote Sensing Enthusiast • Open Source Contributor
 </p>
 
-<!--
-**archa-s-ar/archa-s-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech CSE @ Rajiv Gandhi Institute of Technology (RIT), Kottayam
+
+🛰️ Interested in Space Technology, Earth Observation and Geospatial Intelligence
+
+💻 Building web applications, GIS projects and open-source contributions
+
+🚀 Long-term goal: Contribute to India's space sector through software, remote sensing and data science
+
+---
+
+## 🔭 Current Missions
+
+- 🌐 Building Full-Stack Web Applications
+- 🛰️ Exploring Remote Sensing & GIS
+- 🌍 Contributing to Open Source
+- 🐍 Learning Python for Data Analysis
+- 🤖 Studying Machine Learning Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ Groundwater Potential Zonation Mapping
+GIS-based groundwater suitability analysis using Google Earth Engine and QGIS.
+
+### 🌫️ Air Quality & Aerosol Analysis of Delhi NCR
+Satellite-based pollution assessment using MODIS and Sentinel-5P datasets.
+
+### 👥 Who's In?
+Student networking and team formation platform.
+
+---
+
+## 🛠️ Tech Stack
+
+Python • JavaScript • HTML • CSS • Git • GitHub
+
+Google Earth Engine • QGIS • Remote Sensing • GIS
+
+---
+
+## 📫 Connect
+
+- 🌐 Portfolio: https://archa-s-ar.github.io/portfolio-ai/
+- 💼 LinkedIn: https://linkedin.com/in/archa-s-ar
+- 📧 Email: ar.archa.s@gmail.com
