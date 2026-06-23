@@ -28,16 +28,15 @@ Computer Science Student • GIS & Remote Sensing Enthusiast • Open Source Con
 
 ---
 
-## 🚀 Featured Projects
+## 🌌 Featured Projects
 
-### 🛰️ Groundwater Potential Zonation Mapping
-GIS-based groundwater suitability analysis using Google Earth Engine and QGIS.
+🌊 Groundwater Potential Zonation Mapping of Kerala
 
-### 🌫️ Air Quality & Aerosol Analysis of Delhi NCR
-Satellite-based pollution assessment using MODIS and Sentinel-5P datasets.
+🌫️ Air Quality & Aerosol Analysis of Delhi NCR
 
-### 👥 Who's In?
-Student networking and team formation platform.
+👥 Who's In? – Team Formation Platform
+
+🌱 SmartAgri – Farmer Assistance Platform
 
 ---
 
