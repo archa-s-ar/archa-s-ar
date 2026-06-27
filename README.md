@@ -30,15 +30,12 @@ Computer Science Student • GIS & Remote Sensing Enthusiast • Open Source Con
 
 ## 🌌 Featured Projects
 
-🌊 Groundwater Potential Zonation Mapping of Kerala
+| Project                                       | Description                                                                                                                                    | Tech Stack                                 |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 🌊 **Groundwater Potential Zonation Mapping** | GIS-based groundwater potential mapping of Kerala using remote sensing datasets and multi-criteria analysis.                                   | Google Earth Engine • QGIS • Remote Sensing • GIS           |
+| 🌫️ **Air Quality & Aerosol Analysis**        | Satellite-based analysis of air quality and aerosol distribution over Delhi NCR using Google Earth Engine.                                     | Google Earth Engine • Remote Sensing • GIS  • QGIS |
+| 👥 **Who's In?**                              | A platform that helps users discover opportunities, connect with like-minded people, and form teams for hackathons and collaborative projects. | HTML • CSS • JavaScript • Node.js          |
 
-🌫️ Air Quality & Aerosol Analysis of Delhi NCR
-
-👥 Who's In? – Team Formation Platform
-
-🌱 SmartAgri – Farmer Assistance Platform
-
----
 
 ## 🛠️ Tech Stack
 
