@@ -42,7 +42,7 @@ Computer Science Student • GIS & Remote Sensing Enthusiast • Open Source Con
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,git,github" />
 </p>
 
 ### Geospatial
