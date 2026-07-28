@@ -1,61 +1,81 @@
 <h1 align="center">🛰️ Archa S</h1>
 
 <p align="center">
-Computer Science Student • Geospatial Developer • Remote Sensing Enthusiast • Open Source Contributor
+Computer Science Student • Geospatial Developer • Frontend Developer • Open Source Contributor
 </p>
 
+<p align="center">
+Building software at the intersection of <b>Web Development</b>, <b>Geospatial Intelligence</b>, and <b>Space Technology</b>.
+</p>
+
+---
 
 ## 🌍 About Me
 
-🎓 B.Tech CSE @ Rajiv Gandhi Institute of Technology (RIT), Kottayam
+🎓 B.Tech in Computer Science & Engineering  
+Rajiv Gandhi Institute of Technology (RIT), Kottayam
 
-🛰️ Passionate about Space Technology, Earth Observation, Remote Sensing & Geospatial Intelligence
+🛰️ Interested in Remote Sensing, GIS, Earth Observation, and Space Technology
 
-💻 Building web applications, geospatial projects, and contributing to open source
+💻 Building modern web applications and geospatial solutions
 
-🚀 Long-term goal: Contribute to India's space sector through software and geospatial technologies
+🌱 Currently learning Full-Stack Development while exploring AI and geospatial technologies
 
-
-## 🔭 Current Focus
-
-- 🌐 Learning Full-Stack Web Development
-- ☕ Learning Java & Object-Oriented Programming
-- 🛰️ Exploring Remote Sensing & GIS
-- 🌍 Contributing to Open Source
-- 📚 Building projects that combine software and geospatial technologies
+🚀 Long-term goal: Contribute to India's space sector through software engineering and geospatial intelligence.
 
 
-## 🌌 Featured Projects
 
-| Project                                       | Description                                                                                                  | Tech Stack                                        |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| 🌊 **Groundwater Potential Zonation Mapping** | GIS-based groundwater potential mapping of Kerala using remote sensing datasets and multi-criteria analysis. | Google Earth Engine • QGIS • GIS • Remote Sensing |
-| 🌫️ **Air Quality & Aerosol Analysis**        | Satellite-based analysis of air quality and aerosol distribution over Delhi NCR using Google Earth Engine.   | Google Earth Engine • QGIS • GIS • Remote Sensing |
-| 🌐 **JavaScript Projects** | A collection of beginner-to-intermediate JavaScript projects built while learning web development. | •HTML •CSS •JS
+## 🔭 Currently Working On
+
+- 🌐 Full-Stack Web Development
+- ☕ Java & Object-Oriented Programming
+- 🛰️ Remote Sensing & GIS
+- 🌍 Open Source Contributions
+- 🚀 Space & Geospatial Projects
+
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🕸 **Make-A-Ton: Into the Multiverse** | Spider-Verse-inspired redesign of the Make-A-Ton website created for the Pixel & Paper frontend challenge. | HTML • CSS • JavaScript |
+| 🌊 **Groundwater Potential Zonation Mapping** | GIS-based groundwater potential mapping of Kerala using remote sensing datasets and multi-criteria analysis. | Google Earth Engine • QGIS • GIS |
+| 🌫️ **Air Quality & Aerosol Analysis** | Satellite-based air quality assessment over Delhi NCR using Earth observation datasets. | Google Earth Engine • Remote Sensing |
+| 🌐 **JavaScript Projects** | Collection of beginner-to-intermediate JavaScript projects covering DOM manipulation, animations, sliders, and interactive UI components. | HTML • CSS • JavaScript |
 
 
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
-|:---------|:-------------|
-| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python" title="Python" width="40"/> <img src="https://skillicons.dev/icons?i=java" title="Java" width="40"/> <img src="https://skillicons.dev/icons?i=c" title="C" width="40"/> |
-| 🌐 **Web** | <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="40"/> <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="40"/> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40"/> |
-| 🗺️ **Geospatial** | <img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/icons/qgis-icon-60x60.png" title="QGIS" width="40"/> <img src="https://cdn.simpleicons.org/googleearthengine" title="Google Earth Engine" width="40"/> |
-| ⚙️ **Tools** | <img src="https://skillicons.dev/icons?i=git" title="Git" width="40"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="40"/> |
+|:--|:--|
+| 💻 Languages | <img src="https://skillicons.dev/icons?i=python" width="40"/> <img src="https://skillicons.dev/icons?i=java" width="40"/> <img src="https://skillicons.dev/icons?i=c" width="40"/> |
+| 🌐 Frontend | <img src="https://skillicons.dev/icons?i=html" width="40"/> <img src="https://skillicons.dev/icons?i=css" width="40"/> <img src="https://skillicons.dev/icons?i=js" width="40"/> |
+| 🛰️ Geospatial | <img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/icons/qgis-icon-60x60.png" width="40"/> <img src="https://cdn.simpleicons.org/googleearthengine" width="40"/> |
+| ⚙️ Tools | <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=github" width="40"/> <img src="https://skillicons.dev/icons?i=vscode" width="40"/> |
 
 
-## 📫 Connect
+## 📈 GitHub Activity
+
+- 🌍 Open Source Contributor
+- 💻 Frontend & Geospatial Projects
+- 📚 Continuous Learning
+- 🚀 Building projects in Web Development & GIS
+
+
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://archa-s-ar.github.io/portfolio-ai/">Portfolio</a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="https://archa-s-ar.github.io/portfolio-ai/">🌐 Portfolio</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/archa-s-ar">GitHub</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://linkedin.com/in/archa-s-ar">LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:ar.archa.s@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <em><sub>Building software to better understand Earth and explore space.</sub></em>
+<i>"Building software to better understand Earth and explore space."</i> 🌍🛰️
 </p>
