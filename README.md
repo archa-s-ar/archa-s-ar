@@ -64,15 +64,42 @@ Rajiv Gandhi Institute of Technology (RIT), Kottayam
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://archa-s-ar.github.io/portfolio-ai/">🌐 Portfolio</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/archa-s-ar">GitHub</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/archa-s-ar">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:ar.archa.s@gmail.com">Email</a>
-</p>
+<table>
+<tr>
+
+<td width="33%">
+
+##### 🌐 PORTFOLIO
+
+**Portfolio Website**
+
+<a href="https://archa-s-ar.github.io/portfolio-ai/">Visit →</a>
+
+</td>
+
+<td width="33%">
+
+##### 💼 LINKEDIN
+
+**Archa S**
+
+<a href="https://linkedin.com/in/archa-s-ar">Connect →</a>
+
+</td>
+
+<td width="33%">
+
+##### 📧 CONTACT
+
+**Email**
+
+<a href="mailto:ar.archa.s@gmail.com">Say Hello →</a>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
