@@ -71,7 +71,7 @@ Satellite-based analysis of atmospheric aerosols and air-quality-related paramet
 
 ---
 
-### 🔎 FindBack — Smart Campus Lost & Found
+### 🔎 Back2U — Smart Campus Lost & Found
 
 A smart campus platform designed to connect lost and found items using attribute-based matching and verification workflows.
 
