@@ -178,30 +178,66 @@ Satellite-based analysis of atmospheric aerosols and air-quality-related paramet
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js&perline=8"/>
+<a href="https://www.python.org/" title="Python">
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+</a>
+&nbsp;
+<a href="https://www.java.com/" title="Java">
+  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+</a>
+&nbsp;
+<a href="https://en.cppreference.com/w/c" title="C">
+  <img src="https://skillicons.dev/icons?i=c" width="50" alt="C"/>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/>
+</a>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=8"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/>
+</a>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql&perline=8"/>
+<a href="https://www.mysql.com/" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+</a>
 
 ### ⚙️ Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8"/>
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
+</a>
+&nbsp;
+<a href="https://github.com/" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+</a>
+&nbsp;
+
 
 ### 🛰️ Geospatial & Earth Observation
 
-<img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/icons/qgis-icon-60x60.png" width="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googleearthengine" width="50"/>
+<a href="https://qgis.org/" title="QGIS">
+  <img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/icons/qgis-icon-60x60.png" width="50" alt="QGIS"/>
+</a>
+&nbsp;
+<a href="https://earthengine.google.com/" title="Google Earth Engine">
+  <img src="https://cdn.simpleicons.org/googleearthengine" width="50" alt="Google Earth Engine"/>
+</a>
 
 <br><br>
 
-<code>QGIS</code>
-<code>Google Earth Engine</code>
 <code>Remote Sensing</code>
 <code>GIS</code>
 <code>Satellite Imagery</code>
@@ -221,7 +257,7 @@ Satellite-based analysis of atmospheric aerosols and air-quality-related paramet
 | Geospatial | QGIS • Google Earth Engine • Python |
 | Earth Observation | Sentinel • MODIS • Remote Sensing |
 | Development | Git • GitHub • VS Code • NetBeans |
-| Creative | Graphic Design • Digital Art • Photo/Video Editing |
+| Creative | Graphic Design • Photo/Video Editing |
 
 ---
 
