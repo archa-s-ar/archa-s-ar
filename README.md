@@ -57,8 +57,6 @@ My goal:
 
 ### **Software → Geospatial → Earth Observation → Space**
 
-</div>
-
 ---
 
 ## Currently Exploring
@@ -170,7 +168,9 @@ Satellite-based analysis of atmospheric aerosols and air-quality-related paramet
 </td>
 
 </tr>
+</table>
 
+---
 
 # 🛠️ Tech Stack
 
@@ -209,21 +209,23 @@ Satellite-based analysis of atmospheric aerosols and air-quality-related paramet
 
 </div>
 
-#  Skills at a Glance
+---
 
-| Domain               | What I work with                                   |
-| :------------------- | :------------------------------------------------- |
-|  Programming       | Python • Java • C • JavaScript                     |
-|  Frontend          | HTML • CSS • JavaScript                            |
-|  Databases        | MySQL                                               |
-|  Geospatial       | QGIS • Google Earth Engine • Python                 |
-|  Earth Observation | Sentinel • MODIS • Remote Sensing                  |
-|  Development       | Git • GitHub • VS Code • NetBeans                  |
-|  Creative          | Graphic Design • Digital Art • Photo/Video Editing |
+# Skills at a Glance
+
+| Domain | What I work with |
+| :--- | :--- |
+| Programming | Python • Java • C • JavaScript |
+| Frontend | HTML • CSS • JavaScript |
+| Databases | MySQL |
+| Geospatial | QGIS • Google Earth Engine • Python |
+| Earth Observation | Sentinel • MODIS • Remote Sensing |
+| Development | Git • GitHub • VS Code • NetBeans |
+| Creative | Graphic Design • Digital Art • Photo/Video Editing |
 
 ---
 
-#  Open Source
+# Open Source
 
 <div align="center">
 
@@ -246,7 +248,7 @@ Open source has been one of the best ways for me to learn how software is actual
 
 ---
 
-#  Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -279,6 +281,5 @@ Open source has been one of the best ways for me to learn how software is actual
 **🌍 • 🛰️ • 💻 • 🤖 • 🚀**
 
 <br>
-
 
 </div>
