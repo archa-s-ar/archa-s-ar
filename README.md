@@ -274,13 +274,6 @@ Satellite-based analysis of atmospheric aerosols and air-quality-related paramet
 
 </div>
 
-### What I learned
-
-```text
-Read code → Understand the project → Build → Test → Contribute → Review → Repeat
-```
-
-Open source has been one of the best ways for me to learn how software is actually built by teams.
 
 ---
 
