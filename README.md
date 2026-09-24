@@ -117,6 +117,26 @@ A Java Swing application designed to connect lost and found items through attrib
 
 <td width="50%" valign="top">
 
+### 🏦 Bank Management System
+
+**Desktop Banking Application**
+
+A Java Swing-based banking application for managing customer registration, account details and banking workflows, with MySQL integration through JDBC.
+
+**Stack**
+
+`Java` `Java Swing` `OOP` `JDBC` `MySQL`
+
+**Status:** 🟡 Building
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🕸️ Make-A-Ton
 
 **Into the Multiverse**
@@ -130,10 +150,6 @@ A Spider-Verse-inspired redesign created for a frontend design challenge.
 **Status:** 🟢 Completed
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -150,6 +166,10 @@ GIS-based groundwater potential analysis using remote sensing datasets and multi
 **Status:** 🟢 Completed
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -168,9 +188,11 @@ Satellite-based analysis of atmospheric aerosols and air-quality-related paramet
 </td>
 
 </tr>
+
 </table>
 
 ---
+
 
 # 🛠️ Tech Stack
 
