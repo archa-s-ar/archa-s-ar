@@ -111,7 +111,7 @@ A Java Swing application designed to connect lost and found items through attrib
 
 `Java` `Java Swing` `OOP` `MySQL`
 
-**Status:** 🟡 Building
+**Status:** 🟢 Completed
 
 </td>
 
